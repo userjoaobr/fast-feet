@@ -10,7 +10,7 @@ _Use estes dados para realizar login na aplicação:_
 <blockquote> <strong>Senha:</strong> 123456</blockquote>
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image1.jpg" width="50%" height="50%" /><img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image2.jpg" width="50%" height="50%" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image1.jpg" width="50%" height="50%"/>
 
 ___
 # Installing the dependencies
@@ -60,12 +60,16 @@ Após isso, execute yarn dev para que o backend esteja funcionando.
 Executar o comando yarn para fazer o dowload de todas as dependências necessárias para executar o projeto``` yarn install```. Crie um  arquivo `.env.development.local` (preenchendo as variáveis encontradas no `.env.example`);
 
 Feitos os downloads de todas as dependências, execute``` yarn start ```para iniciar a aplicação;
-```
+
 # android
-```
+
 ```
 yarn install
 react-native run-android
 ```
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/mobile/.github/image1.jpg" width="30%" height="30%" /><img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/mobile/.github/image3.jpg" width="30%" height="30%" /><img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/mobile/.github/image4.jpg" width="30%" height="30%" />
 
-🧑🏻‍💻 Coded by [João Alvaro](https://www.linkedin.com/in/jo%C3%A3o-alvaro-58b79a15b/)!
+___
+
+🧑🏻‍💻 Coding [João Alvaro](https://www.linkedin.com/in/jo%C3%A3o-alvaro-58b79a15b/)!
