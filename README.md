@@ -6,17 +6,15 @@
 1.backend - Este  é api da aplicação
 2.frontend - Aplicação web
 3.mobile - Aplicativo móvel
-
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image1.jpg" width="50%" height="50%" /><img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image2.jpg" width="50%" height="50%" />
-_Use estes dados para realizar login na aplicação:_
-<blockquote><strong>Email:</strong> admin@fastfeet.com</blockquote>
-<blockquote> <strong>Senha:</strong> 123456</blockquote><
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/mobile/.github/image1.jpg" width="30%" height="30%" /><img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/mobile/.github/image3.jpg" width="30%" height="30%" /><img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/mobile/.github/image4.jpg" width="30%" height="30%" />
+
 ___
-#  backend
+
+#backend
 #instalando as dependências
 yarn
-# iniciando a aplicação yarn dev
+#iniciando a aplicação yarn dev
                                                              
 #instalando as dependências Frontend do Fastfeet 
 yarn                                                           
