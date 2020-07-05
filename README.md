@@ -1,4 +1,4 @@
-### :computer: Esta aplicação será formada por:
+### :computer: Fast Feet esta aplicação será formada por:
 
 ```
 1.backend - Este  é api da aplicação
@@ -13,7 +13,7 @@ _Use estes dados para realizar login na aplicação:_
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image1.jpg" width="50%" height="50%" /><img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image2.jpg" width="50%" height="50%" />
 
 ___
-
+```
 _Após isto, você precisa mudar para o ip de sua máquina neste arquivo:_
 [api.js](https://github.com/MicaelliMedeiros/FastFeet/blob/master/mobile/src/services/api.js)
 ```javascript
@@ -31,9 +31,6 @@ yarn start ou npm start.
 yarn install
 react-native run-android
 ```
-
-Você pode consultar a documentação e verificar informações sobre os endpoints.
-
 Funcionalidades
 A seguir, estarão listadas as funcionalidades já implementadas no projeto.
 
