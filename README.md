@@ -13,14 +13,6 @@ _Use estes dados para realizar login na aplicação:_
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image1.jpg" width="50%" height="50%" /><img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image2.jpg" width="50%" height="50%" />
 
 ___
-```
-_Após isto, você precisa mudar para o ip de sua máquina neste arquivo:_
-[api.js](https://github.com/MicaelliMedeiros/FastFeet/blob/master/mobile/src/services/api.js)
-javascript
-  baseURL: 'http://192.168.43.179:3000'.
-```
-
-
 # Installing the dependencies
 
 ```
