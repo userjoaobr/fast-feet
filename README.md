@@ -27,7 +27,7 @@ A seguir, estarão listadas as funcionalidades já implementadas no projeto.
 ### :computer:Instruções para o backend
 Para facilitar os testes na solução de backend clicar no botão seguinte;
 
-   [![Run in Insomnia}] 
+   Run in Insomnia
    ```
    https://drive.google.com/file/d/1RIlS0b0W2MrYyHtkbn5LGLnibhy3Ikg_/view?usp=sharing
    ```
@@ -67,3 +67,5 @@ Feitos os downloads de todas as dependências, execute``` yarn start ```para ini
 yarn install
 react-native run-android
 ```
+
+🧑🏻‍💻 Coded by [João Alvaro](https://www.linkedin.com/in/jo%C3%A3o-alvaro-58b79a15b/)!
