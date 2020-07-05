@@ -14,23 +14,23 @@ _Use estes dados para realizar login na aplicação:_
 
 ___
 
-```
-
 _Após isto, você precisa mudar para o ip de sua máquina neste arquivo:_
 [api.js](https://github.com/MicaelliMedeiros/FastFeet/blob/master/mobile/src/services/api.js)
 ```javascript
   baseURL: 'http://192.168.43.179:3000'.
 ```
-```
-# Installing the dependencies
 
+# Installing the dependencies
+```
 yarn ou npm install,
 To start the project,
 yarn start ou npm start.
-
+```
 # android
+```
+yarn install
 react-native run-android
-
+```
 
 Você pode consultar a documentação e verificar informações sobre os endpoints.
 
