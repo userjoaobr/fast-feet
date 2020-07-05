@@ -25,9 +25,9 @@ A seguir, estarão listadas as funcionalidades já implementadas no projeto.
 
 
 ### :computer:Instruções para o backend
-Para facilitar os testes na solução de backend clicar no botão seguinte;
+Para facilitar os testes na solução de backend acessando o arquivo do insomnia;
 
-   Run in Insomnia
+   Run in Insomnia 
    ```
    https://drive.google.com/file/d/1RIlS0b0W2MrYyHtkbn5LGLnibhy3Ikg_/view?usp=sharing
    ```
