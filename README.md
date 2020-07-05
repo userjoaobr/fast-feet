@@ -10,10 +10,10 @@ _Use estes dados para realizar login na aplicação:_
 <blockquote> <strong>Senha:</strong> 123456</blockquote>
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image1.jpg" width="50%" height="50%"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image1.jpg" width="50%" height="50%" /><img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image2.jpg" width="50%" height="50%" />
 
 ___
-# Installing the dependencies
+### :computer: Installing the dependencies
 
 ```
 yarn ou npm install,
