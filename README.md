@@ -1,9 +1,9 @@
 ### :computer: Esta aplicação será formada por:
 
-1.backend - Este  é api da aplicação
+```1.backend - Este  é api da aplicação
 2.frontend - Aplicação web
 3.mobile - Aplicativo móvel
-
+```
 
 _Abra um terminal na pasta do frontend e digite:_
 ```bash
@@ -24,7 +24,7 @@ ___
 _Após isto, você precisa mudar para o ip de sua máquina neste arquivo:_
 [api.js](https://github.com/MicaelliMedeiros/FastFeet/blob/master/mobile/src/services/api.js)
 ```javascript
-  baseURL: 'http://192.168.43.179:3000',
+  baseURL: 'http://192.168.43.179:3000'.
 ```
 
 # Installing the dependencies
