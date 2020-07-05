@@ -1,21 +1,26 @@
 
-### :computer: Frontend do Fastfeet
 
-### :computer:Esta aplicação será formada por:
+
+### :computer: Fast Feet Esta aplicação será formada por:
 
 1.backend - Este  é api da aplicação
 2.frontend - Aplicação web
 3.mobile - Aplicativo móvel
 
-
-
-h1 align="center">
+<h1 align="center">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image1.jpg" width="50%" height="50%" /><img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/frontend/.github/image2.jpg" width="50%" height="50%" />
 _Use estes dados para realizar login na aplicação:_
 <blockquote><strong>Email:</strong> admin@fastfeet.com</blockquote>
 <blockquote> <strong>Senha:</strong> 123456</blockquote><
 ___
-Você pode consultar a documentação e verificar informações sobre os endpoints.
+#  backend
+#instalando as dependências
+yarn
+# iniciando a aplicação yarn dev
+                                                             
+#instalando as dependências Frontend do Fastfeet 
+yarn                                                           
+Feitos os downloads de todas as dependências, execute yarn start para iniciar a aplicação;
 
 Funcionalidades
 A seguir, estarão listadas as funcionalidades já implementadas no projeto.
@@ -53,22 +58,12 @@ _Após isto, você precisa mudar para o ip de sua máquina neste arquivo:_
   baseURL: 'http://192.168.43.179:3000',
 ```
 
-
-
-Esta aplicação será formada por:
-
-1.backend - Este  é api da aplicação
-2.frontend - Aplicação web
-3.mobile - Aplicativo móvel
-
-
-
 ### :iphone: Aplicativo mobile do Fastfeet
 react-native run-android
 
 
 
-Feitos os downloads de todas as dependências, execute yarn start para iniciar a aplicação;
+
 
 
 
