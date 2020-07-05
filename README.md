@@ -25,7 +25,13 @@ A seguir, estarão listadas as funcionalidades já implementadas no projeto.
 
 
 ### :computer:Instruções para o backend
-Você precisará ter instalado na sua máquina o Node.js, o Yarn e o Docker. Feitas as configurações, seguem os passos para executar o backend da aplicação:
+Para facilitar os testes na solução de backend clicar no botão seguinte;
+
+   [![Run in Insomnia}] 
+   ```
+   https://drive.google.com/file/d/1RIlS0b0W2MrYyHtkbn5LGLnibhy3Ikg_/view?usp=sharing
+   ```
+Você precisará ter instalado na sua máquina o``` Node.js, o Yarn e o Docker```. Feitas as configurações, seguem os passos para executar o backend da aplicação:
 
 Executar o comando ```yarn``` para fazer o dowload de todas as dependências necessárias para executar o projeto;
 
@@ -51,11 +57,12 @@ Se quiser, também pode gerar alguns dados, como usuário administrador e planos
 Após isso, execute yarn dev para que o backend esteja funcionando.
 
 ### :computer: Instruções para o frontend
-Executar o comando yarn para fazer o dowload de todas as dependências necessárias para executar o projeto yarn install. Crie um  arquivo `.env.development.local` (preenchendo as variáveis encontradas no `.env.example`);
+Executar o comando yarn para fazer o dowload de todas as dependências necessárias para executar o projeto``` yarn install```. Crie um  arquivo `.env.development.local` (preenchendo as variáveis encontradas no `.env.example`);
 
-Feitos os downloads de todas as dependências, execute yarn start para iniciar a aplicação;
+Feitos os downloads de todas as dependências, execute``` yarn start ```para iniciar a aplicação;
 ```
 # android
+```
 ```
 yarn install
 react-native run-android
