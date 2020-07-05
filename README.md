@@ -16,9 +16,8 @@ ___
 ```
 _Após isto, você precisa mudar para o ip de sua máquina neste arquivo:_
 [api.js](https://github.com/MicaelliMedeiros/FastFeet/blob/master/mobile/src/services/api.js)
-```javascript
+javascript
   baseURL: 'http://192.168.43.179:3000'.
-```
 ```
 
 
