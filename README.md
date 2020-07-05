@@ -61,7 +61,7 @@ Executar o comando yarn para fazer o dowload de todas as dependências necessár
 
 Feitos os downloads de todas as dependências, execute``` yarn start ```para iniciar a aplicação;
 
-# android
+### :computer: Instruções para o mobile
 
 ```
 yarn install
